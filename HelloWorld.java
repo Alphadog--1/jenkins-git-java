@@ -4,6 +4,7 @@ public class HelloWorld {
         //System.exit( 0 ); //success
         for (int i=0;i<10 ;i++ ) {
         	System.out.println( i*2 );
+        	System.out.println( i*10 );
         }
     }
 }
